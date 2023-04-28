@@ -24,8 +24,23 @@
 
 ## Schedule
 ### Competition Day 1
-|Time|Test|
-| ------------- | ------------- |
+|Time|Mapping|
+
+| 11:00 | Halcones Omnibot UV |
+
+| 11:00 | Halcones Uverto UV |
+
+| 11:20| Halcones Uverta UV |
+
+| 11:40| Olmeca Team JuarBot UTSV |
+
+| 12:00 | Festino UNAM |
+
+| 12:00 | Takeshi UNAM |
+
+| 12:20 | Markuvito INAOE |
+
+| 12:40 | Roborregos ITESM |
 
 
 ### Competition Day 2

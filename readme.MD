@@ -30,7 +30,11 @@
 | Roborregos| 0 pts |
 | Uverto| 0 pts |
 
-
+|Recepcionist|Score|
+| ------------- | ------------- |
+| Takeshi UNAM | 0 pts |
+| Festino UNAM | 400 pts |
+| Roborregos| 0 pts |
 
 
 ## Schedule

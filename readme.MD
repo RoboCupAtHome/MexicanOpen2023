@@ -28,6 +28,7 @@
 | Uverta UV | 0 pts |
 | Markuvito| 0 pts |
 | Roborregos| 0 pts |
+| Uverto| 0 pts |
 
 
 

@@ -40,6 +40,10 @@
 | ------------- | ------------- |
 | Markovito| 0 pts |
 
+|Storing groceries|Score|
+| ------------- | ------------- |
+| Markovito| 0 pts |
+
 |Places|Score|
 | ------------- | ------------- |
 |1°| Festino UNAM | 600 pts |

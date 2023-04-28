@@ -1,0 +1,10 @@
+# Ignore everything
+*
+# But these files
+!.gitignore
+!.gitattributes
+!LICENSE
+!readme.MD
+# And these subdirectories
+!maps
+!objects

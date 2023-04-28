@@ -1,0 +1,99 @@
+# Jalapa 2023
+
+- [Tomar 2023](#Jalapa-2023)
+  * [Scores](#scores)
+  * [Schedule](#schedule)
+  * [Mapping Slots](#mapping-slots)
+  * [Arena](#arena)
+  * [Names](#names)
+  * [Robot Inspection](#robot-inspection)
+  * [Stage 1](#stage-1)
+    + [Carry my Luggage](#carry-my-luggage)
+    + [GPSR](#gpsr)
+    + [Receptionist](#receptionist)
+    + [Serve Breakfast](#serve-breakfast)
+    + [Storing Groceries](#storing-groceries)
+  * [Stage 2](#stage-2)
+    + [Clean the Table](#clean-the-table)
+    + [EGPSR](#egpsr)
+    + [Restaurant](#find-my-disk)
+    + [Stickler for the Rules](#stickler-for-the-rules)
+
+## Scores
+
+
+## Schedule
+### Competition Day 1
+|Time|Test|
+| ------------- | ------------- |
+
+
+### Competition Day 2
+|Time|Test|
+| ------------- | ------------- |
+
+## Mapping Slots
+
+## Arena
+
+
+## Names
+|Female Names|Male Names|
+| ------------- | ------------- |
+
+
+Note: Several names are gender-neutral (ambigous) on purpose.
+
+## Robot Inspection
+Inspection Point
+
+
+## Stage 1
+### Carry my Luggage
+Starting Point
+
+
+Bag locations
+
+
+
+
+### GPSR
+Instruction Point
+
+
+
+
+
+### Receptionist
+Starting Point
+
+Host Name:
+
+Host Favorite Drink:
+
+Doorbell Sound:
+
+### Serve Breakfast
+
+
+### Storing Groceries
+
+
+## Stage 2
+
+### Clean the Table
+
+### EGPSR
+Instruction Point
+
+
+
+### Restaurant
+
+### Stickler for the Rules
+Starting Point
+
+
+
+Forbidden Room:

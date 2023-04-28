@@ -25,17 +25,17 @@
 ## Schedule
 ### Competition Day 1
 
-|Time| Mapping |
+| Time | Mapping |
 
-
+| --- | ----------|
 
 | 11:00 | Halcones Omnibot UV |
 
 | 11:00 | Halcones Uverto UV |
 
-| 11:20| Halcones Uverta UV |
+| 11:20 | Halcones Uverta UV |
 
-| 11:40| Olmeca Team JuarBot UTSV |
+| 11:40 | Olmeca Team JuarBot UTSV |
 
 | 12:00 | Festino UNAM |
 
@@ -49,17 +49,17 @@
 
 
 
-|Time| Tests |
+| Time | Tests |
 
-
+| --- | ----------|
 
 | 1:00 | Halcones Omnibot UV |
 
 | 1:30 | Halcones Uverto UV |
 
-| 2:00| Halcones Uverta UV |
+| 2:00 | Halcones Uverta UV |
 
-| 2:30| Olmeca Team JuarBot UTSV |
+| 2:30 | Olmeca Team JuarBot UTSV |
 
 | 3:00 | Festino UNAM |
 

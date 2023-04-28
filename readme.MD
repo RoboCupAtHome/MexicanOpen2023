@@ -21,52 +21,45 @@
 
 ## Scores
 
+|Carry my luggage|Score|
+| ------------- | ------------- |
+| Takeshi UNAM | 0 pts |
+| Festino UNAM | 600 pts |
+| Uverta UV | 0 pts |
+| Markuvito| 0 pts |
+| Roborregos| 0 pts |
+
+
+
 
 ## Schedule
 ### Competition Day 1
 
-| Time | Mapping |
 
-| --- | ----------|
-
+|Time|Test|
+| ------------- | ------------- |
 | 11:00 | Halcones Omnibot UV |
-
 | 11:00 | Halcones Uverto UV |
-
 | 11:20 | Halcones Uverta UV |
-
 | 11:40 | Olmeca Team JuarBot UTSV |
-
 | 12:00 | Festino UNAM |
-
 | 12:00 | Takeshi UNAM |
-
 | 12:20 | Markuvito INAOE |
-
 | 12:40 | Roborregos ITESM |
 
 
 
 
 
-| Time | Tests |
-
-| --- | ----------|
-
+|Time|Test|
+| ------------- | ------------- |
 | 1:00 | Halcones Omnibot UV |
-
 | 1:30 | Halcones Uverto UV |
-
 | 2:00 | Halcones Uverta UV |
-
 | 2:30 | Olmeca Team JuarBot UTSV |
-
 | 3:00 | Festino UNAM |
-
 | 3:30 | Takeshi UNAM |
-
 | 4:00 | Markuvito INAOE |
-
 | 4:30 | Roborregos ITESM |
 
 

@@ -71,6 +71,7 @@
 ## Mapping Slots
 
 ## Arena
+![image](https://user-images.githubusercontent.com/132082790/235209436-25a13e33-34a0-4fb0-ab4f-584a9b1ab989.png)
 
 
 ## Names

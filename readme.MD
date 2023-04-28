@@ -85,7 +85,17 @@ Note: Several names are gender-neutral (ambigous) on purpose.
 ## Robot Inspection
 Inspection Point
 
-
+|Order|Names|
+| ------------- | ------------- |
+| 1. | Takeshi UNAM |
+| 2.| Festino UNAM|
+| 3.| Uverta UV|
+| 4. | Roborregos ITESM |
+| 5. | Markovito INAOE |
+| 6. | Uverto UV |
+| 7. | Olmeca team  |
+| 8. | Omnibot
+|
 ## Stage 1
 ### Carry my Luggage
 Starting Point

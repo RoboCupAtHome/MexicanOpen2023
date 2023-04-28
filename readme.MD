@@ -26,7 +26,7 @@
 | Takeshi UNAM | 0 pts |
 | Festino UNAM | 600 pts |
 | Uverta UV | 0 pts |
-| Markuvito| 0 pts |
+| Markovito| 0 pts |
 | Roborregos| 0 pts |
 | Uverto| 0 pts |
 
@@ -38,7 +38,7 @@
 
 |Serve Breakfast|Score|
 | ------------- | ------------- |
-| Markuvito| 0 pts |
+| Markovito| 0 pts |
 
 |Places|Score|
 | ------------- | ------------- |
@@ -53,7 +53,7 @@
 ### Competition Day 1
 
 
-|Time|Test|
+|Time|Setting|
 | ------------- | ------------- |
 | 11:00 | Halcones Omnibot UV |
 | 11:00 | Halcones Uverto UV |
@@ -68,7 +68,7 @@
 
 
 
-|Time|Test|
+|Time|Setting|
 | ------------- | ------------- |
 | 1:00 | Halcones Omnibot UV |
 | 1:30 | Halcones Uverto UV |
@@ -84,7 +84,11 @@
 ### Competition Day 2
 |Time|Test|
 | ------------- | ------------- |
-
+| 10:00 - 11:00 | Carry my luggage |
+| 12:00 - 1:00 | Recepcionist |
+| 3:00 - 4:00 | Serve Breackfast |
+| 4:00 - 5:00 | Storing groceries |
+| 6:00 - 7:00 | GPSR |
 ## Mapping Slots
 
 ## Arena

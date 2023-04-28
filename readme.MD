@@ -1,6 +1,6 @@
 # Jalapa 2023
 
-- [Tomar 2023](#Jalapa-2023)
+- [Jalapa 2023](#Jalapa-2023)
   * [Scores](#scores)
   * [Schedule](#schedule)
   * [Mapping Slots](#mapping-slots)

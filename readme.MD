@@ -21,7 +21,7 @@
 
 ## Scores
 
-|Carry my luggage|Score|
+| Carry my luggage |Score|
 | ------------- | ------------- |
 | Takeshi UNAM | 0 pts |
 | Festino UNAM | 600 pts |
@@ -30,19 +30,23 @@
 | Roborregos| 0 pts |
 | Uverto| 0 pts |
 
-|Recepcionist|Score|
+| Recepcionist |Score|
 | ------------- | ------------- |
 | Takeshi UNAM | 0 pts |
 | Festino UNAM | 400 pts |
 | Roborregos| 0 pts |
 
-|Serve Breakfast|Score|
+| Serve Breakfast |Score|
 | ------------- | ------------- |
 | Markovito| 0 pts |
 
-|Storing groceries|Score|
+| Storing groceries |Score|
 | ------------- | ------------- |
 | Markovito| 0 pts |
+
+| GPSR |Score|
+| ------------- | ------------- |
+| Takeshi UNAM | 800 pts |
 
 |Places|Score|
 | ------------- | ------------- |

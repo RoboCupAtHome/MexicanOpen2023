@@ -46,11 +46,13 @@
 
 | GPSR |Score|
 | ------------- | ------------- |
+| Festino UNAM | 1000 pts |
 | Takeshi UNAM | 800 pts |
+
 
 |Places|Score|
 | ------------- | ------------- |
-|1°| Festino UNAM | 1000 pts |
+|1°| Festino UNAM | 2000 pts |
 |2°| Takeshi UNAM | 800 pts |
 |3°| Uverta UV | 0 pts |
 |4°| Markuvito| 0 pts |

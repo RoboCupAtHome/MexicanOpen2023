@@ -55,10 +55,6 @@
 | ------------- | ------------- | ------------- |
 |1°| Festino UNAM | 2000 pts |
 |2°| Takeshi UNAM | 800 pts |
-|3°| Uverta UV | 0 pts |
-|4°| Markuvito| 0 pts |
-|5°| Roborregos| 0 pts |
-|6°| Uverto| 0 pts |
 
 ## Schedule
 ### Competition Day 1

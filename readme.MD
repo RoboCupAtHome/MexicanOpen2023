@@ -51,7 +51,7 @@
 | Roborregos| 0 pts |
 
 
-|Places|Score|
+| Places | Robot |Score |
 | ------------- | ------------- | ------------- |
 |1°| Festino UNAM | 2000 pts |
 |2°| Takeshi UNAM | 800 pts |

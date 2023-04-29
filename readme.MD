@@ -50,8 +50,8 @@
 
 |Places|Score|
 | ------------- | ------------- |
-|1°| Festino UNAM | 600 pts |
-|2°| Takeshi UNAM | 0 pts |
+|1°| Festino UNAM | 1000 pts |
+|2°| Takeshi UNAM | 800 pts |
 |3°| Uverta UV | 0 pts |
 |4°| Markuvito| 0 pts |
 |5°| Roborregos| 0 pts |

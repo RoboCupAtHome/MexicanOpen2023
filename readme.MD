@@ -48,6 +48,7 @@
 | ------------- | ------------- |
 | Festino UNAM | 1000 pts |
 | Takeshi UNAM | 800 pts |
+| Roborregos| 0 pts |
 
 
 |Places|Score|
